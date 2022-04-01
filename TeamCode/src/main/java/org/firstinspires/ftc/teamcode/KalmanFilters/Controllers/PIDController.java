@@ -1,7 +1,7 @@
-package org.firstinspires.ftc.teamcode.Controllers;
+package org.firstinspires.ftc.teamcode.KalmanFilters.Controllers;
 
-import org.firstinspires.ftc.teamcode.Controllers.Parameters.PIDCoefficients;
-import org.firstinspires.ftc.teamcode.Utils.Timer;
+import org.firstinspires.ftc.teamcode.KalmanFilters.Controllers.Parameters.PIDCoefficients;
+import org.firstinspires.ftc.teamcode.KalmanFilters.Utils.Timer;
 
 public class PIDController implements FeedbackController {
     PIDCoefficients coefficients;

@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.Filter;
+package org.firstinspires.ftc.teamcode.KalmanFilters.Filter;
 
 public class LowPassFilter implements Filter {
 

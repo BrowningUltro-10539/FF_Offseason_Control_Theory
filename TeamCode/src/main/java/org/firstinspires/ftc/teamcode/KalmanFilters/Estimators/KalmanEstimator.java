@@ -1,11 +1,11 @@
-package org.firstinspires.ftc.teamcode.Estimators;
+package org.firstinspires.ftc.teamcode.KalmanFilters.Estimators;
 
 import android.os.Build;
 
 
 import androidx.annotation.RequiresApi;
 
-import org.firstinspires.ftc.teamcode.Filter.KalmanFilter;
+import org.firstinspires.ftc.teamcode.KalmanFilters.Filter.KalmanFilter;
 
 import java.util.function.DoubleSupplier;
 

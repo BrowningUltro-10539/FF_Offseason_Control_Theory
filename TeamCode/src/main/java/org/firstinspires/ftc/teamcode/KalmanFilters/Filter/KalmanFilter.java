@@ -1,11 +1,11 @@
-package org.firstinspires.ftc.teamcode.Filter;
+package org.firstinspires.ftc.teamcode.KalmanFilters.Filter;
 
 import android.os.Build;
 
 import androidx.annotation.RequiresApi;
 
-import org.firstinspires.ftc.teamcode.Utils.LinearRegression;
-import org.firstinspires.ftc.teamcode.Utils.SizedStack;
+import org.firstinspires.ftc.teamcode.KalmanFilters.Utils.LinearRegression;
+import org.firstinspires.ftc.teamcode.KalmanFilters.Utils.SizedStack;
 
 public class KalmanFilter implements Filter {
     protected double Q;

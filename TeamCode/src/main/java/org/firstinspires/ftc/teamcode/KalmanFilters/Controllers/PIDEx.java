@@ -1,7 +1,7 @@
-package org.firstinspires.ftc.teamcode.Controllers;
+package org.firstinspires.ftc.teamcode.KalmanFilters.Controllers;
 
-import org.firstinspires.ftc.teamcode.Controllers.Parameters.PIDCoefficientsEx;
-import org.firstinspires.ftc.teamcode.Filter.LowPassFilter;
+import org.firstinspires.ftc.teamcode.KalmanFilters.Controllers.Parameters.PIDCoefficientsEx;
+import org.firstinspires.ftc.teamcode.KalmanFilters.Filter.LowPassFilter;
 
 /**
  * Extended PID controller - Implements anti-wind up and derivative smoothing features.
